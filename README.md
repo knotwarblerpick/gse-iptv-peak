@@ -24,4 +24,4 @@ The goal is a tool that just works — no clutter, no bloat.
 - 📖 **Documentation:** [https://gse-iptv-peak.softnation.xyz](https://gse-iptv-peak.softnation.xyz)
 
 ## Legal
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor. 
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.  
